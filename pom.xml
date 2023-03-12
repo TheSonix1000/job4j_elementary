@@ -110,6 +110,7 @@
                 <version>3.0.0-M7</version>
             </plugin>
         </plugins>
+
                     <source>18</source>
                     <target>18</target>
                 </configuration>
