@@ -1,6 +1,6 @@
 package ru.job4j.condition;
 
-public class TrgArea {[]
+public class TrgArea {
     public static double area(double a, double b, double c) {
         double first = ((a + b + c) / 2) - a;
         double second = ((a + b + c) / 2) - b;
