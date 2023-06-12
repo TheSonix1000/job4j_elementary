@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7e71bb6-d3f2-4400-a271-e5094f9ee7da" name="Changes" comment="1.2. Входные данные в тесте [#297750]" />
+    <list default="true" id="e7e71bb6-d3f2-4400-a271-e5094f9ee7da" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -159,13 +159,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677989362384</updated>
-    </task>
-    <task id="LOCAL-00020" summary="3.3. Фиксация изменений на github [#243564 #397575]">
-      <created>1678606915484</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1678606915484</updated>
     </task>
     <task id="LOCAL-00021" summary="3.3. Фиксация изменений на github [#243564 #397575]">
       <created>1678606933566</created>
@@ -503,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686565868484</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="1">
+      <created>1686579262586</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1686579262587</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -550,7 +550,8 @@
     <MESSAGE value="9. Площадь треугольника. [#175474]" />
     <MESSAGE value="1.1. Что такое import [#504773]" />
     <MESSAGE value="1.2. Входные данные в тесте [#297750]" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.2. Входные данные в тесте [#297750]" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/job4j_elementary$Calculator.ic" NAME="Calculator Coverage Results" MODIFIED="1679664205466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
