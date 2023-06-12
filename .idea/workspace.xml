@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7e71bb6-d3f2-4400-a271-e5094f9ee7da" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/Fit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/FitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/Fit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/Fit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/FitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/converter/Fit.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +38,7 @@
     </option>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2MZyNYoxIX8fRjAMOMIO0rUlkSc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -66,7 +68,7 @@
       <recent name="ru.job4j.converter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ru.job4j.converter.Fit">
+  <component name="RunManager" selected="Application.Fit">
     <configuration name="Fit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.Fit" />
       <module name="elementary" />
@@ -175,8 +177,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.job4j.converter.Fit" />
         <item itemvalue="Application.Fit" />
+        <item itemvalue="Application.ru.job4j.converter.Fit" />
         <item itemvalue="JUnit.X2Test.whenMinusA1B1C1X0Then1" />
         <item itemvalue="JUnit.X2Test.whenMinusA1B1C1X1Then1" />
         <item itemvalue="JUnit.X2Test.whenMinusA1B1C1X1Then3" />
@@ -191,13 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677989362384</updated>
-    </task>
-    <task id="LOCAL-00023" summary="3.3. Фиксация изменений на github [#243564 #397575]">
-      <created>1678606993540</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1678606993540</updated>
     </task>
     <task id="LOCAL-00024" summary="3.3. Фиксация изменений на github [#243564 #397575]">
       <created>1678607016765</created>
@@ -535,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686580169734</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="1">
+      <created>1686581378229</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1686581378229</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
