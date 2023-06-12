@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7e71bb6-d3f2-4400-a271-e5094f9ee7da" name="Changes" comment="1">
+    <list default="true" id="e7e71bb6-d3f2-4400-a271-e5094f9ee7da" name="Changes" comment="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458]]">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/Fit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/Fit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/calculator/FitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/job4j/converter/Fit.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,34 +190,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677989362384</updated>
-    </task>
-    <task id="LOCAL-00024" summary="3.3. Фиксация изменений на github [#243564 #397575]">
-      <created>1678607016765</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1678607016765</updated>
-    </task>
-    <task id="LOCAL-00025" summary="3.3. Фиксация изменений на github [#243564 #397575]">
-      <created>1678612207730</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1678612207730</updated>
-    </task>
-    <task id="LOCAL-00026" summary="3.3. Фиксация изменений на github [#243564 #397575]">
-      <created>1678612231923</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1678612231923</updated>
-    </task>
-    <task id="LOCAL-00027" summary="4.1. Разбор первой программы. [#159033 #398497]">
-      <created>1678612648741</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1678612648741</updated>
     </task>
     <task id="LOCAL-00028" summary="4.1. Разбор первой программы. [#159033 #398497]">
       <created>1678612669664</created>
@@ -537,7 +506,35 @@
       <option name="project" value="LOCAL" />
       <updated>1686581378229</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="1">
+      <created>1686582715700</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1686582715700</updated>
+    </task>
+    <task id="LOCAL-00074" summary="1">
+      <created>1686582843403</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1686582843403</updated>
+    </task>
+    <task id="LOCAL-00075" summary="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458]]">
+      <created>1686583074826</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1686583074826</updated>
+    </task>
+    <task id="LOCAL-00076" summary="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458]]">
+      <created>1686583093968</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1686583093968</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,7 +582,19 @@
     <MESSAGE value="1.1. Что такое import [#504773]" />
     <MESSAGE value="1.2. Входные данные в тесте [#297750]" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458]]" />
+    <option name="LAST_COMMIT_MESSAGE" value="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458]]" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/job4j/calculator/FitTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/job4j_elementary$Calculator.ic" NAME="Calculator Coverage Results" MODIFIED="1679664205466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
