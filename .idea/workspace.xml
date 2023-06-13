@@ -6,6 +6,26 @@
   <component name="ChangeListManager">
     <list default="true" id="e7e71bb6-d3f2-4400-a271-e5094f9ee7da" name="Changes" comment="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458 #422634]]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/Echo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/Info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/Multiple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/StudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/calculator/ArgMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/calculator/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/calculator/MathFunc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/SqArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/StringRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/TrgArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/X2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/converter/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/math/MathCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/math/MathFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/job4j/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/job4j/condition/X2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/job4j/converter/ConverterTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +111,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in elementary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="elementary" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="X2Test.whenMinusA0B1C1X1Then2" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
       <module name="elementary" />
       <extension name="coverage">
@@ -155,29 +183,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="X2Test.whenMinusA1B1C1X1Then3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="elementary" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.job4j.condition.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ru.job4j.condition" />
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.condition.X2Test" />
-      <option name="METHOD_NAME" value="whenMinusA1B1C1X1Then3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in elementary" />
         <item itemvalue="Application.Fit" />
         <item itemvalue="Application.ru.job4j.converter.Fit" />
         <item itemvalue="JUnit.X2Test.whenMinusA1B1C1X0Then1" />
         <item itemvalue="JUnit.X2Test.whenMinusA1B1C1X1Then1" />
-        <item itemvalue="JUnit.X2Test.whenMinusA1B1C1X1Then3" />
       </list>
     </recent_temporary>
   </component>
@@ -189,13 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677989362384</updated>
-    </task>
-    <task id="LOCAL-00031" summary="4.2. Заголовок в файле java [#159036]">
-      <created>1678612829560</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1678612829561</updated>
     </task>
     <task id="LOCAL-00032" summary="3. Арифметические операции. [#185]">
       <created>1679404388505</created>
@@ -533,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686583569268</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="2. Тесты для задачи &quot;идеальный вес&quot; [#159458 # [#159458 #422634]]">
+      <created>1686670443697</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1686670443698</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
