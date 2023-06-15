@@ -28,8 +28,8 @@ public class PointTest {
     }
 
     @Test
-    public void when05to60then7() {
-        double expected = 7.810249675906654;
+    public void when05to60then7dot81() {
+        double expected = 7.81;
         int x1 = 0;
         int y1 = 5;
         int x2 = 6;
@@ -39,8 +39,8 @@ public class PointTest {
     }
 
     @Test
-    public void when75to67then2() {
-        double expected = 2.23606797749979;
+    public void when75to67then2dot23() {
+        double expected = 2.23;
         int x1 = 7;
         int y1 = 5;
         int x2 = 6;
