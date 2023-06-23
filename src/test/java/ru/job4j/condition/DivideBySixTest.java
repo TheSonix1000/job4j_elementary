@@ -21,7 +21,7 @@ public class DivideBySixTest {
     }
 
     @Test
-    public void whenNumberNoDivideBy3AndEven() {
+    public void whenNumberNoDivideBy3 AndEven() {
         int in = 14;
         String result = DivideBySix.checkNumber(in);
         String expected = "The number doesn't divide by 3, but it is the even number.";
