@@ -2,9 +2,8 @@ package ru.job4j.condition;
 
 public class SwitchWeek {
     public static String nameOfDay(int day) {
-        int number = 4;
         String name;
-        switch (number) {
+        switch (day) {
             case 1 :
                 name = "Monday";
                 break;
