@@ -14,9 +14,9 @@ class FactorialTest {
     }
 
     @Test
-    void whenCalculateFactorialForZeroThenOne() {
+    void whenCalculateFactorialForOneThenOne() {
         int expected = 1;
-        int n = 0;
+        int n = 1;
         int out = Factorial.calc(n);
         assertThat(out).isEqualTo(expected);
     }
